@@ -1,3 +1,2 @@
-# snake
-
-#author: marouane
+# simple game
+# author: marouane
