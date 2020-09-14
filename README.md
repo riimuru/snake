@@ -6,4 +6,4 @@ python3 -m pygame.examples.aliens
 
 
 # simple game
-# author: marouane
+
