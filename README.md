@@ -1,8 +1,8 @@
 ## simple game
-# install pygame with the command:<br/>
+__install pygame with the command:<br/>__
 python3 -m pip install -U pygame --user
 
-# To check if you installed pygame correctly, run this command:<br/>
+__To check if you installed pygame correctly, run this command:<br/>__
 python3 -m pygame.examples.aliens
 
 
